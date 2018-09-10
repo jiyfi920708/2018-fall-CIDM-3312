@@ -1,0 +1,11 @@
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\bin\Debug\netcoreapp2.1\InterestThing.deps.json
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\bin\Debug\netcoreapp2.1\InterestThing.runtimeconfig.json
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\bin\Debug\netcoreapp2.1\InterestThing.runtimeconfig.dev.json
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\bin\Debug\netcoreapp2.1\InterestThing.dll
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\bin\Debug\netcoreapp2.1\InterestThing.pdb
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.csprojAssemblyReference.cache
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.csproj.CoreCompileInputs.cache
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.AssemblyInfoInputs.cache
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.AssemblyInfo.cs
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.dll
+C:\Users\yj952830\Documents\CIDM 3312\InClass\InterestThing\obj\Debug\netcoreapp2.1\InterestThing.pdb
